@@ -7,6 +7,7 @@ Welcome to the **Game Projects** repository! This repository contains a collecti
 - **Quiz Game**: A trivia quiz game that tests your knowledge with various questions.
 - **Snake Game**: The classic Snake game where you control a snake and try to eat the food while avoiding obstacles.
 - **Pong Game**: A simple version of the classic Pong game, where two players compete against each other to score points.
+  ![Game Screen](Snake Game/Images/game.jpg)
 
 ## Features:
 
